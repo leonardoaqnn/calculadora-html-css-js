@@ -26,7 +26,7 @@ Uma calculadora simples e funcional desenvolvida com **HTML, CSS e JavaScript**.
 2. **Acesse a pasta do projeto**
    ```bash
    cd nome-do-repositorio
-   ```
+   ```bash
    3. **Abra o arquivo `calculadora.html` no navegador**
 
 ## 📄 Licença
