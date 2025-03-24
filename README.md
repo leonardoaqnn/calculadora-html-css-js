@@ -20,7 +20,7 @@ Uma calculadora simples e funcional desenvolvida com **HTML, CSS e JavaScript**.
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/leonardoaqnn/calculadora-html-css-js.git
    ```
 2. **Acesse a pasta do projeto**
    ```bash
