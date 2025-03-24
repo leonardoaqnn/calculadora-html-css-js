@@ -16,18 +16,17 @@ Uma calculadora simples e funcional desenvolvida com **HTML, CSS e JavaScript**.
 - **CSS3** → Estilização e responsividade.
 - **JavaScript (ES6)** → Funcionalidade e lógica dos cálculos.
 
-
 ## ▶️ Como Executar o Projeto
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/leonardoaqnn/calculadora-html-css-js.git
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
    ```
 2. **Acesse a pasta do projeto**
    ```bash
    cd nome-do-repositorio
-   ```bash
-   3. **Abra o arquivo `calculadora.html` no navegador**
+   ```
+3. **Abra o arquivo `calculadora.html` no navegador**
 
 ## 📄 Licença
 
